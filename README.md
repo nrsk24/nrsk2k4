@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nrsk2k4
 - 👀 I’m interested in artificial consciousness
 - 🌱 I’m currently learning java from basic
-- <br>
+
 <!---
 - 💞️ I’m looking to collaborate in 2024
 - 📫 How to reach me ...
